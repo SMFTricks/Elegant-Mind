@@ -3,7 +3,7 @@
 	<id>smftricks:elegantmind</id>
 	<version>1.2.1</version>
 	<name>Elegant Mind</name>
-	<author name="diegoandres_cortes@outlook.com">Diego Andrés</author>
+	<author name="SMF Tricks">admin@smftricks.com</author>
 	<website>https://www.smftricks.com</website>
 	<layers>html,body</layers>
 	<templates>index</templates>
